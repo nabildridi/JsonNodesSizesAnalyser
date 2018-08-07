@@ -12,7 +12,8 @@ The solution is a web application that can read a json from an uploaded file, te
 
 #### The application :
 The application is a Spring boot application with Thymeleaf interface.
-To run the application, enter this command : `mvn clean install spring-boot:run`
+To run the application, enter this command :
+`mvn clean install spring-boot:run`
 
 and open : [http://localhost:8080/](http://localhost:8080/) 
 
