@@ -3,7 +3,7 @@ A web app that analyses and displays the nodes' sizes of a given json
 
 
 #### Problem :
-One of our applications was generating an extremely big Json (70 MB and up) and sending this json to the web UI through the network takes long waiting time.
+One of our applications was generating an extremely big Json (70 MB and up) and sending this json to the web UI through the network takes time.
 
 #### Solution :
 The structure of the json can be very complex, in order to optimise the generation of the json and minimise its size we needed to know which objects or arrays are taking most of the size and dislay them in a sorted list.
